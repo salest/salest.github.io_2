@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/http//salest.github.io/salest.github.io_2/static/css/main.073c9b0a.css",
-    "main.js": "/http//salest.github.io/salest.github.io_2/static/js/main.d6d34544.js",
-    "static/js/787.8af22d7a.chunk.js": "/http//salest.github.io/salest.github.io_2/static/js/787.8af22d7a.chunk.js",
-    "static/media/logo.svg": "/http//salest.github.io/salest.github.io_2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/http//salest.github.io/salest.github.io_2/index.html",
-    "main.073c9b0a.css.map": "/http//salest.github.io/salest.github.io_2/static/css/main.073c9b0a.css.map",
-    "main.d6d34544.js.map": "/http//salest.github.io/salest.github.io_2/static/js/main.d6d34544.js.map",
-    "787.8af22d7a.chunk.js.map": "/http//salest.github.io/salest.github.io_2/static/js/787.8af22d7a.chunk.js.map"
+    "main.css": "/http//salest.github.io/salest.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/http//salest.github.io/salest.github.io/static/js/main.5b4395ef.js",
+    "static/js/787.8af22d7a.chunk.js": "/http//salest.github.io/salest.github.io/static/js/787.8af22d7a.chunk.js",
+    "static/media/logo.svg": "/http//salest.github.io/salest.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/http//salest.github.io/salest.github.io/index.html",
+    "main.073c9b0a.css.map": "/http//salest.github.io/salest.github.io/static/css/main.073c9b0a.css.map",
+    "main.5b4395ef.js.map": "/http//salest.github.io/salest.github.io/static/js/main.5b4395ef.js.map",
+    "787.8af22d7a.chunk.js.map": "/http//salest.github.io/salest.github.io/static/js/787.8af22d7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.d6d34544.js"
+    "static/js/main.5b4395ef.js"
   ]
 }
